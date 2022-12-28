@@ -4,3 +4,4 @@ remote changes
 remote conflict changes
 
 cccc
+file 1 updated
