@@ -1,4 +1,5 @@
 main branch updated
+<<<<<<< HEAD
 Again main branch updated
 third time updated main branch
 ...
@@ -7,3 +8,6 @@ other changes
 
 bbbb
 local conflict
+=======
+Again main branch updated
+>>>>>>> dev
