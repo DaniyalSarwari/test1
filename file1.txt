@@ -1,5 +1,4 @@
 changes
 changes in file1
 remote changes
-local conflict changes
-
+remote conflict changes
