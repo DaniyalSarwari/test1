@@ -6,3 +6,4 @@ local changes
 other changes
 
 bbbb
+conflict
